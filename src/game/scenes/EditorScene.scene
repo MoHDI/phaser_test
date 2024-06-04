@@ -2,6 +2,7 @@
     "id": "525949f3-63f5-4a5f-bea6-b56057aa0799",
     "sceneType": "SCENE",
     "settings": {
+        "exportClass": true,
         "preloadPackFiles": [],
         "createMethodName": "editorCreate",
         "sceneKey": "EditorScene"
@@ -23,6 +24,17 @@
                 "key": "head"
             },
             "x": 234,
+            "y": 363
+        },
+        {
+            "type": "Image",
+            "id": "ffcbffed-5542-4ca7-bb82-bd408b206ac2",
+            "label": "image_1",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "head"
+            },
+            "x": 571,
             "y": 363
         }
     ],
