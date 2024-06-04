@@ -2,7 +2,7 @@
     "section1": {
         "files": [
             {
-                "url": "public/assets/head.png",
+                "url": "assets/head.png",
                 "type": "image",
                 "key": "head"
             }
